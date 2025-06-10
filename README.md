@@ -14,4 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garalajeet&show_icons=true&locale=en&layout=compact" alt="garalajeet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garalajeet&show_icons=true&locale=en" alt="garalajeet" /></p>
+<h3 align="left">🧮 LeetCode Stats:</h3>
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Jeet_Garala?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Jeet_Garala/)
 
